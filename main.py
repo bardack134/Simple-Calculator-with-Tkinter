@@ -14,8 +14,8 @@ math_expresion=StringVar()
 user_inseted_data=""
 
 #label que muestra informacion en la pantalla de nuestra calculadora
-label_data = Entry(window, textvariable=math_expresion, width=25)
-label_data.grid(row=0, columnspan=4)
+label_data = Entry(window, textvariable=math_expresion, width=18, font=('calibre',14, 'bold'))
+label_data.grid(row=0, columnspan=4, )
 
 
 #Funcion que obtiene toda la data ingresada por el usuario y se almacena en 'user_inserted_data'
