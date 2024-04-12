@@ -29,8 +29,8 @@ The Calculator App is a simple Python GUI application built using the Tkinter li
 #### Results and Achievements
 
 - Successfully implemented a user-friendly interface for performing basic arithmetic calculations.
-- Empowered users to perform mathematical operations quickly and efficiently.
-- Enhanced user productivity by providing a simple yet effective calculator tool.
+- Experience in Error Handling: I learned to implement error handling to manage unexpected situations, such as division by zero or other invalid operations, improving my ability to write robust and fail-safe code.
+- this project provided me with valuable hands-on experience in developing applications with Python and Tkinter, while also improving my skills in GUI programming and event handling.
 
   
 ![1000044206](https://github.com/bardack134/Simple-Calculator-with-Tkinter/assets/142977989/e7f44f51-85ad-44b6-9381-c2ff9c4596e2)
